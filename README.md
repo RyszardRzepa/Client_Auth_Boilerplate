@@ -1,4 +1,4 @@
-**Client side boilerplate for the authentication.**
+###Client side boilerplate for the authentication.###
 
 Main Libraries: 
 - react
