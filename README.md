@@ -1,3 +1,10 @@
+Client side boilerplate for the authentication.
+
+Main Libraries: 
+- react
+- redux
+- redux-form
+
 
 
 ###To Get Started###
